@@ -5,11 +5,11 @@ def hopper
         :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
-        }
+        },
         :alan_kay => {
           :alam_kay_is_known_for => "Object Orientation",
           :languages => ["Smalltalk", "LISP"]
-        }
+        },
         :dennis_ritchie => {
           :known_for => "Unix",
           :dennis_ritchies_languages => ["C"]
